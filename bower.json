@@ -1,0 +1,14 @@
+{
+  "name": "Mi Sitio",
+  "version": "0.0.1",
+  "description": "Proyecto de examen segundo parcial IESO",
+  "main": "/var/www/ProyectoNuevoPractica1",
+  "authors": [
+    "Lud"
+  ],
+  "license": "MIT",
+  "homepage": "www.practica.com",
+  "dependencies": {
+    "bootstrap": "~3.3.2"
+  }
+}
